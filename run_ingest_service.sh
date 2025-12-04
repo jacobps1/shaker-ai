@@ -1,0 +1,1 @@
+python ./ingest/main.py >> ingest.log 2>&1

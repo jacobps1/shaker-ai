@@ -2,3 +2,5 @@ storage/
 venv/
 env/
 __pycache__/
+ingest.log
+ingested_files.json
